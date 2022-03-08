@@ -7,9 +7,9 @@ Demo : https://snack.expo.dev/@sudhirsuri43/transportation-ui
 
 Design created by freepik www.freepik.com
 
-freepik design : https://www.freepik.com/free-psd/template-wallet-cryptocurrency-mobile-app_12385833.htm#query=app%20ui&position=8&from_view=keyword
+Design Link: https://www.freepik.com/free-vector/app-public-transport-template_10276877.htm#query=app%20design&position=24&from_view=keyword
 
-Attribution: https://www.freepik.com/psd/mockup - Mockup psd created by asylab 
+Attribution: "https://www.freepik.com/vectors/menu"  (Menu vector created by freepik - www.freepik.com)
 
 ## Instructions
 
